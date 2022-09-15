@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Bcez</h1>
-<h3 align="center">A 13 Year Old Gamer And Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bcez&label=Profile%20views&color=0e75b6&style=flat" alt="bcez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcez" alt="bcez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rozeblade" target="blank"><img src="https://img.shields.io/twitter/follow/rozeblade?logo=twitter&style=for-the-badge" alt="rozeblade" /></a> </p>
 
-- 🔭 I’m currently working on [My Own Minecraft Sever](play.cursednet.tk)
+<p align="left"> <a href="https://twitter.com/bcez__" target="blank"><img src="https://img.shields.io/twitter/follow/rozeblade?logo=twitter&style=for-the-badge" alt="Bcez" /></a> </p>
+
+- 🔭 I’m currently working on [ FantasyRealms ]
 
 - 🌱 I’m currently learning **Website Development**
 
 - 💬 Ask me about **Server Management, Linux, And Minecraft In General**
 
-- 📫 How to reach me **Discord : Bcez#7339 Twitter @rozeblade Twitch Darealbcez**
+- 📫 How to reach me **Discord : Roze#0474 Twitter @bcez__ Twitch Darealbcez**
 
-- ⚡ Fun fact **In School, People think that i am The Techy Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bcez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bcez" height="30" width="40" /></a>
-<a href="https://twitter.com/rozeblade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rozeblade" height="30" width="40" /></a>
+<a href="https://twitter.com/bcez__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rozeblade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
